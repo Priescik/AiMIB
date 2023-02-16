@@ -1,0 +1,8 @@
+VMNeuronManager.autoload: Neuro classes added: Delay Light Nn PIDP PIDV SeeLight SeeLight2 S0 S1 Thr 
+UserScripts.autoload: 20 user scripts added.
+MainProgram.Start: Application initialized
+Simulator.load: Loading from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\framspy\only-body.sim'
+Loader.load: Comments read from file follow:
+Loader.load:  Turns off mutations in f0, f1, f4, fH related to brain (disables adding and modifying neurons)
+Simulator.load: Settings loaded from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\framspy\only-body.sim'
+MainProgram.Finish: Application ends
