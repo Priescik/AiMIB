@@ -1,8 +1,18 @@
 VMNeuronManager.autoload: Neuro classes added: Delay Light Nn PIDP PIDV SeeLight SeeLight2 S0 S1 Thr 
 UserScripts.autoload: 20 user scripts added.
 MainProgram.Start: Application initialized
-Simulator.load: Loading from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\framspy\only-body.sim'
+Simulator.load: Loading from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\Framsticks50rc24\data\eval-allcriteria.sim'
 Loader.load: Comments read from file follow:
-Loader.load:  Turns off mutations in f0, f1, f4, fH related to brain (disables adding and modifying neurons)
-Simulator.load: Settings loaded from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\framspy\only-body.sim'
+Loader.load:  Sample settings for evaluating many criteria of performance of a Framsticks creature.
+Loader.load:  See the "evalcount" parameter if you want to speed the evaluation up or have a more stable result.
+Loader.load:  Other important parameters are "Energy0" and "perfperiod".
+Loader.load:  Put this file in the "data" subdirectory within the Framsticks distribution.
+Simulator.load: Settings loaded from 'D:\Projekty\STUDIA MAGISTERSKIE\SEM 2 - AIMIB\Framsticks50rc24\data\eval-allcriteria.sim'
+VMNeuronManager.autoload: Neuro classes added: Delay Light Nn PIDP PIDV SeeLight SeeLight2 S0 S1 Thr 
+UserScripts.autoload: 20 user scripts added.
+MainProgram.Start: Application initialized
+Simulator.load: Loading from 'C:\Users\Adrian\OneDrive\Pulpit\AIMIB_backup_output_1$2\HoFs2\HoF-f0-1.gen'
+Loader.load: Comments read from file follow:
+Loader.load:  3449.9113449
+Simulator.load: 1 genotype(s) loaded from 'C:\Users\Adrian\OneDrive\Pulpit\AIMIB_backup_output_1$2\HoFs2\HoF-f0-1.gen'
 MainProgram.Finish: Application ends
